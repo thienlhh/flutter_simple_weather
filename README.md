@@ -1,6 +1,6 @@
 # simple_weather
 
-A new Flutter project.
+A demo UI app using Flutter. The design inspired from [Alexandru Buncea](https://dribbble.com/shots/6522793--DailyUI-037)
 
 ## Getting Started
 
