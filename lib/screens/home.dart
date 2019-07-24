@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_weather/data.dart';
+import 'package:simple_weather/fake_data.dart';
 import 'package:simple_weather/widgets/box_container.dart';
 import 'package:simple_weather/widgets/detail_row.dart';
 
